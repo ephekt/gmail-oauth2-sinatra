@@ -1,6 +1,8 @@
 ## GMail OAuth2 Sinatra
 
-A small working example of interacting with the GMail API using OAuth and Sinatra
+* It should be known that GMail is currently not supported with OAuth2 as far as I can tell.
+
+A small working example of interacting with the Google API using OAuth and Sinatra
 
 ## Pre Reqs
 
